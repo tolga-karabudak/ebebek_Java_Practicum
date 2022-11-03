@@ -13,7 +13,9 @@ import java.util.Scanner;
 public class Taksimetre {
 
     /**
+     //<editor-fold desc="Description">
      * @param args the command line arguments
+    //</editor-fold>
      */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
