@@ -1,16 +1,3 @@
-/FirstCase/build/
-/FirstCase/dist/
-/Pratikler/Not_ortalamasi/build/
-/Pratikler/Kdv_hesaplama/nbproject/private/
-/Pratikler/Kdv_hesaplama/build/
-/Pratikler/Kdv_hesaplama/dist/
-/Pratikler/dik_ucgen_hipotenus/nbproject/private/
-/Pratikler/dik_ucgen_hipotenus/build/
-/Pratikler/taksimetre/nbproject/private/
-/Pratikler/taksimetre/dist/
-/Pratikler/taksimetre/build/
-/Pratikler/Not_ortalamasi/nbproject/private/
-/FirstCase/nbproject/private/
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
