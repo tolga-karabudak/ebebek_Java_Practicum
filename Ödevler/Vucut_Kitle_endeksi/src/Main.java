@@ -6,13 +6,13 @@ public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Lütfen boyunuzu (metre cinsinde) giriniz : ");
-        double boy = input.nextDouble();
+        double height = input.nextDouble(); // input height
         System.out.print("Lütfen kilonuzu giriniz : ");
-        double kilo = input.nextDouble();
+        double mass = input.nextDouble();// input mass
 
-        double endeks = kilo / (boy * boy);
+        double endex = mass / (height * height);// formula
 
-        System.out.printf("Vücut kitle endeksiniz : " + endeks);
+        System.out.printf("Vücut kitle endeksiniz : " + endex); // output
 
     }
 }
