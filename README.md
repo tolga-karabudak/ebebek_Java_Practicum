@@ -1,8 +1,8 @@
 # Java 101 First Case & Practice & Homeworks
 
 ### [First Case](https://github.com/tolga-karabudak/ebebek_Java_Practicum/tree/main/FirstCase)
-    Bu casede amaç Fabrika çalışanlarının maaşlarını hesaplayan bir sınıf yazmak. Bu sınıf 4 nitelik ve 5 metoda sahip olacak. Konsol çıktılarında ise Adı, maaşı, çalışma saati, başlangıç yılı, vergi, bonus, maaş artışı, vergi ve bonuslarla birlikte maaş, toplam maaş değerlerini yazdıran bir kod çıktısı verecek. 
-    ![img1](https://github.com/tolga-karabudak/ebebek_Java_Practicum/blob/main/FirstCase/Screenshot_1.png)
+Bu casede amaç Fabrika çalışanlarının maaşlarını hesaplayan bir sınıf yazmak. Bu sınıf 4 nitelik ve 5 metoda sahip olacak. Konsol çıktılarında ise Adı, maaşı, çalışma saati, başlangıç yılı, vergi, bonus, maaş artışı, vergi ve bonuslarla birlikte maaş, toplam maaş değerlerini yazdıran bir kod çıktısı verecek. 
+![img1](https://github.com/tolga-karabudak/ebebek_Java_Practicum/blob/main/FirstCase/Screenshot_1.png)
 ## [Pratikler](https://github.com/tolga-karabudak/ebebek_Java_Practicum/tree/main/Pratikler)
 
 ### 1. [Not Ortalaması Hesaplayıcı](https://github.com/tolga-karabudak/ebebek_Java_Practicum/tree/main/Pratikler/Not_ortalamasi)
