@@ -30,6 +30,8 @@ public class Dik_ucgen_hipotenus {
  
         alan = Math.sqrt(u*(u-a)*(u-b)*(u-c));
         
+        double cevre = a+b+c;
+        System.out.println("Cevre "+ cevre);
         System.out.println("Alan : "+alan);
     }
     
