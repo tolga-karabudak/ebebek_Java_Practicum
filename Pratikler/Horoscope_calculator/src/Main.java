@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-
+        //https://app.patika.dev/tolgahankarabudak
 
         System.out.printf("Welcome the Horoscope Calculator !\nPlease type your birth MONTH : ");
         int month = input.nextInt();
