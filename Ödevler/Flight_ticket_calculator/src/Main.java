@@ -15,7 +15,7 @@ public class Main {
             totalPrice += distance * 0.10;   //per KM = 0.10 we get total price like this way.
         }
         else {
-            System.out.println("Wrong Entry !! Exitting");
+            System.out.println("Wrong Entry !! Exitting"); // pop-up when entry is wrong
             System.exit(0);
         }
         if(age > 0) {
@@ -29,7 +29,7 @@ public class Main {
                 totalPrice -= totalPrice * 30/100; //%30 discount for 65 years old and older customers
             }
         }else {
-            System.out.println("Wrong Entry !! Exitting");
+            System.out.println("Wrong Entry !! Exitting");// pop-up when entry is wrong
             System.exit(0);
         }
 
@@ -39,10 +39,10 @@ public class Main {
                 totalPrice *= 2;					//we multiple 2 for it has 2 ticket
             }
         }else {
-            System.out.println("Wrong Entry !! Exitting");
+            System.out.println("Wrong Entry !! Exitting");// pop-up when entry is wrong
             System.exit(0);
         }
 
-        System.out.println("Total price : " + totalPrice + " TL");
+        System.out.println("Total price : " + totalPrice + " TL"); //result output
     }
 }
