@@ -1,7 +1,5 @@
 import java.util.Scanner;
-/**
- * EBOB
- */
+
 public class Main {
 
 
